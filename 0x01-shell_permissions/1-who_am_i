@@ -1,2 +1,2 @@
 #!/bin/bash
-echo iam_the_current_user
+cUser
